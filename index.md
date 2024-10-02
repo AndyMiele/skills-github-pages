@@ -1,7 +1,3 @@
----
-title: Welcome to my blog
----
-
 # Andrew Miele
 
 Welcome to my professional portfolio! I am a **Mechanical Engineer** with a concentration in **Aerospace Engineering**, graduating from the University of Connecticut in Winter 2024. With a current GPA of **3.444**, I am passionate about design, manufacturing, and propulsion systems.
