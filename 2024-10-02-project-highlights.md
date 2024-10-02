@@ -3,8 +3,6 @@ title: "Project Highlights: Mechanical Engineering and Beyond"
 date: 2024-10-02
 ---
 
-## Project Highlights: Mechanical Engineering and Beyond
-
 As part of my undergraduate journey, I've had the opportunity to work on several impactful projects. Below are some highlights:
 
 ### 1. Senior Design Project - Eddy Current Airfoil De-Icing
